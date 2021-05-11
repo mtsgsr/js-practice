@@ -1,3 +1,2 @@
-# <font color="yellow">JavaScript</font>
-<hr>
-> Exercises practice
+# JavaScript
+>Exercises practice
