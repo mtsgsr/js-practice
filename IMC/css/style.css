@@ -16,7 +16,7 @@ body{
   padding: 0;
   background: var(--primary-color);
   font-family: 'Open Sans', sans-serif;
-  font-size: 1.3em;
+  font-size: 1.2em;
   line-height: 1.5em;
 }
 
@@ -44,11 +44,7 @@ h1{
 }
 
 .imc-title1{
-  margin-bottom: 10%;
-}
-
-.imc-title2{
-  margin: 15% 0 10% 0;
+  margin-bottom: 7%;
 }
 
 form input, form label, form button{
@@ -68,10 +64,11 @@ form input:focus {
 }
 
 form button{
+  margin-top: 5%;
   border: none;
   background: var(--primary-color);
   color: #fff;
-  font-size: 18px;
+  font-size: 1.15em;
   font-weight: 700;
   height: 50px;
   cursor: pointer;
