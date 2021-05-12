@@ -7,4 +7,6 @@
 * Timer
 <img src="https://github.com/matheus-gsr/JS-Practice/blob/master/Timer/timer.gif">
 
-* Task list (to be added)
+* Task list
+<img src="https://github.com/matheus-gsr/JS-Practice/blob/master/Task-List/tasklist.gif">
+
