@@ -4,5 +4,7 @@
 * IMC
 <img src="https://github.com/matheus-gsr/JS-Practice/blob/master/IMC/imc.gif">
 
-* Timer (to be added)
+* Timer
+<img src="https://github.com/matheus-gsr/JS-Practice/blob/master/Timer/timer.gif">
+
 * Task list (to be added)
