@@ -1,5 +1,3 @@
-/* FACTORY FUNCTION */
-
 function createCalc() {
   return {
     // Selecionar display
